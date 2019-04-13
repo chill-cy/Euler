@@ -1,1 +1,1 @@
-# Euler code
+# Euler
